@@ -2,7 +2,7 @@
 
 > ⚠️ **Note:** If you prefer to run the application directly using Docker, you can skip the local build steps and download the pre-built Docker image from this [Google Drive link](https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing).  
 > The instructions below explain how to build and run the application locally and test it using Postman.
-> The file is safe and only contains a compiled Spring Boot application.
+>> The file is safe and only contains a compiled Spring Boot application.
 
 ## 🛠️ Tech Stack
 - Java 17
