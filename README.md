@@ -15,4 +15,10 @@
 - (Optional) Docker installed if you want to containerize
 
 The initial application was built using [spring initializr](https://start.spring.io/)
-
+The following dependencies were added
+- Spring Web
+- Spring Data JPA
+- Lombok (for boiler plate code reduction)
+- Jackson Mapper (from [maven dependency repo](https://mvnrepository.com/))
+- H2 Database
+- Jakarta Validation (from the maven repository linked above)
