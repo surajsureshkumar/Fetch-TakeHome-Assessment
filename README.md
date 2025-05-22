@@ -35,7 +35,7 @@ git s# Fetch-TakeHome-Assessment - Receipt Processor API
 - Click on run and the spring boot application start, which starts an embedded server
 - mainly apache tomcat
 ```
-
+---
 ### 🐳 If you are using docker
 
 To run the project using Docker:
@@ -46,8 +46,9 @@ To run the project using Docker:
    - Provide the full path to it.
 3. Download the `.tar` file from this [Google Drive link](https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing)
 
+Then run the commands from the directory the `.tar` file is in or move it into a directory of your choice and then run:
+
 ```
-Then run:
 - docker load -i receipt-processor-challenge.tar
 - docker run -p 8080:8080 receipt-processor-challenge
 
