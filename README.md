@@ -55,6 +55,7 @@ Then run the commands from the directory the `.tar` file is in or move it into a
 
 This will load the Docker image and start the Spring Boot application on http://localhost:8080
 ```
+And then lets go to postman for testing the endpoints
 ---
 
 ### 📬 For postman testing 
