@@ -33,4 +33,11 @@
 - Open in IntelliJIdea
 - Go to the main program file which will be named Fetch Application
 - Click on run and the spring boot application start, which starts an embedded server, mainly apache tomcat
+- Once the application starts, open postman ( I will be giving the postman steps in this) but you can use any other tool that you use to test endpoints (another one maybe insomnia or whatever you are comfortable with)
+- Your server will start at http://localhost:8080 ,
+- Create an environment if you dont have one
+- Then click on New  as shown in the image
+![App Screenshot](![image](https://github.com/user-attachments/assets/901d5787-4ce5-4619-851e-c17fddbdc6e9)
+)
 ```
+
