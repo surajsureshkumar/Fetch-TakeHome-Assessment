@@ -36,7 +36,8 @@
 - Once the application starts, open postman ( I will be giving the postman steps in this) but you can use any other tool that you use to test endpoints (another one maybe insomnia or whatever you are comfortable with)
 - Your server will start at http://localhost:8080 ,
 - Create an environment if you dont have one
-- Then click on New  as shown in the image
-
+- Then click on New where the red arrow mark is at as shown in the image, it will give you a new pop-up window as shown in the image and select http in this
 ```
-(![image](https://github.com/user-attachments/assets/901d5787-4ce5-4619-851e-c17fddbdc6e9))
+![image](https://github.com/user-attachments/assets/0343adcd-88a8-4e4d-970d-cb36c9416ffb)
+![image](https://github.com/user-attachments/assets/8c1954e0-0a11-42f0-acbd-c6ad1258a24a)
+
