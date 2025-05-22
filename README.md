@@ -55,3 +55,11 @@ You will receive a response which will be UUID as string and 200 OK response
 ```
 ![image](https://github.com/user-attachments/assets/2fc88b52-4b90-4d8a-90e4-74eae0328d04)
 
+```
+Now for the get request
+You would not require a request body here
+Make sure you add the generate id to the url before calling get or you will get an error
+Once the url is good to go, click on send and you will receive the json resonse as seen in the image
+```
+![image](https://github.com/user-attachments/assets/02887868-cff4-4da7-81bb-aa9b0d31101e)
+
