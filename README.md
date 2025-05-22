@@ -37,7 +37,7 @@ git s# Fetch-TakeHome-Assessment - Receipt Processor API
 ```
 
 ### 🐳 If you are using docker
-```
+
 To run the project using Docker:
 
 1. Make sure Docker is installed and running.
@@ -46,8 +46,7 @@ To run the project using Docker:
    - Provide the full path to it.
 3. Download the `.tar` file from this [Google Drive link](https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing)
 
-https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing
-
+```
 Then run:
 - docker load -i receipt-processor-challenge.tar
 - docker run -p 8080:8080 receipt-processor-challenge
