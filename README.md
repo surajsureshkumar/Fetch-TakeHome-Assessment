@@ -1,6 +1,7 @@
 # Fetch-TakeHome-Assessment - Receipt Processor API
 
-> ⚠️ Note: Before you proceed, if you want to run the tar file on docker directly please download it from this drive link [Google Drive link](https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing) and the below content is on how to build the application locally and test using postman
+> ⚠️ **Note:** If you prefer to run the application directly using Docker, you can skip the local build steps and download the pre-built Docker image from this [Google Drive link](https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing).  
+> The instructions below explain how to build and run the application locally and test it using Postman.
 
 ## 🛠️ Tech Stack
 - Java 17
