@@ -24,6 +24,7 @@ git s# Fetch-TakeHome-Assessment - Receipt Processor API
 - H2 Database
 - Jakarta Validation (from the maven repository linked above)
 - Mockito (if you want to run tests to test your service layer or controller layer)
+---
 
 ### 📦 Build and Run (Locally)
 ```
@@ -54,6 +55,7 @@ Then run the commands from the directory the `.tar` file is in or move it into a
 
 This will load the Docker image and start the Spring Boot application on http://localhost:8080
 ```
+---
 
 ### 📬 For postman testing 
 ```
