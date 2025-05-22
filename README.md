@@ -1,4 +1,4 @@
-git s# Fetch-TakeHome-Assessment - Receipt Processor API
+# Fetch-TakeHome-Assessment - Receipt Processor API
 
 ## 🛠️ Tech Stack
 - Java 17
