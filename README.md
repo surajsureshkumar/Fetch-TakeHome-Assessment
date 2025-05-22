@@ -52,6 +52,7 @@ Then run:
 This will load the Docker image and start the Spring Boot application on http://localhost:8080
 ```
 
+### 📬 For postman testing 
 ```
 - Once the application starts, open postman ( I will be giving the postman steps in this) but you can use any other tool that you use to test endpoints (another one maybe insomnia or whatever you are comfortable with)
 - Your server will start at http://localhost:8080 ,
