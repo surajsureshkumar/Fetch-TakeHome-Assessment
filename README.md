@@ -29,5 +29,8 @@
 ```
 - Clone the repo
 - git clone https://github.com/surajsureshkumar/Fetch-TakeHome-Assessment.git
-cd Fetch-TakeHome-Assessment
+- cd Fetch-TakeHome-Assessment/fetch
+- Open in IntelliJIdea
+- Go to the main program file which will be named Fetch Application
+- Click on run and the spring boot application start, which starts an embedded server, mainly apache tomcat
 ```
