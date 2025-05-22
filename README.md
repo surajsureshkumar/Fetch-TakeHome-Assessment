@@ -15,6 +15,7 @@
 - (Optional) Docker installed if you want to containerize
 
 ### The initial application was built using [spring initializr](https://start.spring.io/)
+
 ### The following dependencies were added
 - Spring Web
 - Spring Data JPA
@@ -24,4 +25,9 @@
 - Jakarta Validation (from the maven repository linked above)
 - Mockito (if you want to run tests to test your service layer or controller layer)
 
-
+### 📦 Build and Run (Locally)
+```
+- Clone the repo
+- git clone https://github.com/surajsureshkumar/Fetch-TakeHome-Assessment.git
+cd Fetch-TakeHome-Assessment
+```
