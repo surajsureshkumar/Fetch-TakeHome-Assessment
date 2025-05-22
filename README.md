@@ -48,7 +48,7 @@
 ![image](https://github.com/user-attachments/assets/562c7974-6ee3-4a4f-af11-47307fbd6516)
 
 ```
-So after the method have been created lets first do the post request to generate an id for the receipt and associate that id with the receipt
+So after the methods have been created lets first do the post request to generate an id for the receipt and associate that id with the receipt
 You will have to select the body -> raw -> json(by default) if not selected then select json
 Add the request body as shown in the image and the url as shown and click on send
 You will receive a response which will be UUID as string and 200 OK response
