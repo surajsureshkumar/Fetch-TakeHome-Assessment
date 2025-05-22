@@ -46,7 +46,7 @@ To run the project using Docker:
    - Be in the same directory as the `.tar` file, **or**
    - Provide the full path to it.
 3. Download the `.tar` file from this [Google Drive link](https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing)
-
+> ⚠️ Note: You do not need to build the JAR yourself if you're using the provided `.tar` file. The Docker image already contains the built Spring Boot application.
 Then run the commands from the directory the `.tar` file is in or move it into a directory of your choice and then run:
 
 ```
