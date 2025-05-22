@@ -14,4 +14,5 @@
 - Maven 3.8+
 - (Optional) Docker installed if you want to containerize
 
-The initial application was built using [spring initializr]<https://start.spring.io/>
+The initial application was built using [spring initializr](https://start.spring.io/)
+
