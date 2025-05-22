@@ -37,7 +37,6 @@
 - Your server will start at http://localhost:8080 ,
 - Create an environment if you dont have one
 - Then click on New  as shown in the image
-(![image](https://github.com/user-attachments/assets/901d5787-4ce5-4619-851e-c17fddbdc6e9)
-)
-```
 
+```
+(![image](https://github.com/user-attachments/assets/901d5787-4ce5-4619-851e-c17fddbdc6e9))
