@@ -33,6 +33,25 @@
 - Open in IntelliJIdea
 - Go to the main program file which will be named Fetch Application
 - Click on run and the spring boot application start, which starts an embedded server, mainly apache tomcat
+```
+
+### 🐳 If you are using docker
+```
+To run the project using Docker:
+
+1. Make sure Docker is installed and running.
+2. Either:
+   - Be in the same directory as the `.tar` file, **or**
+   - Provide the full path to it.
+
+Then run:
+- docker load -i receipt-processor-challenge.tar
+- docker run -p 8080:8080 receipt-processor-challenge
+
+This will load the Docker image and start the Spring Boot application on http://localhost:8080
+```
+
+```
 - Once the application starts, open postman ( I will be giving the postman steps in this) but you can use any other tool that you use to test endpoints (another one maybe insomnia or whatever you are comfortable with)
 - Your server will start at http://localhost:8080 ,
 - Create an environment if you dont have one
