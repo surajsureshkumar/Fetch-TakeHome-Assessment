@@ -1,4 +1,4 @@
-# Fetch-TakeHome-Assessment - Receipt Processor API
+git s# Fetch-TakeHome-Assessment - Receipt Processor API
 
 ## 🛠️ Tech Stack
 - Java 17
@@ -44,6 +44,9 @@ To run the project using Docker:
 2. Either:
    - Be in the same directory as the `.tar` file, **or**
    - Provide the full path to it.
+Downdoad the tar file from this google drive link
+
+https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing
 
 Then run:
 - docker load -i receipt-processor-challenge.tar
