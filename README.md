@@ -44,7 +44,7 @@ To run the project using Docker:
 2. Either:
    - Be in the same directory as the `.tar` file, **or**
    - Provide the full path to it.
-Downdoad the tar file from this google drive link
+3. 📥 [Download the `.tar` file from this Google Drive link](https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing)
 
 https://drive.google.com/file/d/1zrJJkLRJpC_gppwrr71CmiS8cjlYHfiY/view?usp=sharing
 
